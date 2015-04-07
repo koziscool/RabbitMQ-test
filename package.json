@@ -1,0 +1,19 @@
+{
+  "name": "rabbitmq.tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqp": "^0.2.4",
+    "body-parser": "^1.0.2",
+    "express": "^4.12.3",
+    "jade": "^1.9.2",
+    "serve-static": "^1.9.2",
+    "socket.io": "~0.9.6"
+  }
+}
